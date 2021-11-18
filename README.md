@@ -5,4 +5,4 @@
  and change the mode
  chmod +x ./filename
  
- and run ./file name
+ and run  like this : ./ssl.sh 
