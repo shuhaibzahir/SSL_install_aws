@@ -7,4 +7,4 @@ echo "Enter the Domain Name: "
 read domain
 
 sudo certbot --nginx -d  $domain
-
+sudo certbot renew --dry-run
