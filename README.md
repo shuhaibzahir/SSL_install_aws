@@ -6,3 +6,5 @@
  chmod +x ./filename
  
  and run  like this : ./ssl.sh 
+
+
