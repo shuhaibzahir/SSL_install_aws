@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Check Dependency PR status
-        uses: shuhaibzahir/check-dependency-pr@v2
+        uses: shuhaibzahir/check-dependency-pr@v3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           # Uncomment below if you have a user token for private repos
